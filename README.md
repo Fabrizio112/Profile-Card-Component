@@ -1,6 +1,3 @@
-
-Profile Card Component created by a design viewed in Frontend Mentor
-
 # <img style="padding-right:0.5rem" src='https://img.freepik.com/vector-premium/bandera-argentina-bandera-argentina-ilustracion-vectorial_685751-66.jpg' width="50px" >  <span style="font-size:3rem">ESPAÑOL:</span>
 ## <i align="center" style="font-size:2rem">👋 Carta de Perfil de usuario</i>
 
